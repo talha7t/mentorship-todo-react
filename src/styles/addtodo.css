@@ -1,0 +1,19 @@
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-field {
+  display: inline-block;
+  height: 3rem;
+  width: 35vw;
+  font-size: 1.5rem;
+  outline: none;
+}
+
+.submit-button {
+  height: 3rem;
+  width: 10vw;
+  font-size: 1.5rem;
+}
